@@ -8,4 +8,4 @@
 📝  $ docker  run  -it  --rm  -e DISPLAY=$DISPLAY  -v /tmp/.X11-unix:/tmp/.X11-unix  --net  host  kps77/filemanager-gui:v1 <br/><br/>
 
 #### ⚡️  The complete demonstration is available here : <a href="https://youtu.be/29KXHBMYjlQ">Demo</a>
-##### Thanks . Hope this will help you guy :)  If you have any queries feel free to contact me here : <a href="https://www.linkedin.com/in/krushna-prasad/">TheKrushna</a> 
+##### Thanks . In case of any queries feel free to contact me : <a href="https://www.linkedin.com/in/krushna-prasad/">KP</a> 
