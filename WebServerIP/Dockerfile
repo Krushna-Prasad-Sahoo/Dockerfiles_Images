@@ -2,4 +2,4 @@
 
 FROM centos:latest
 
-RUN
+RUN yum install net-tools -y
