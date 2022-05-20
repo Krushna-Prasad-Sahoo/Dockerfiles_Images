@@ -2,4 +2,4 @@
 
 FROM centos:latest
 
-RUN yum install net-tools -y
+RUN yum install httpd net-tools -y
